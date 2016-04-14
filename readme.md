@@ -7,3 +7,6 @@ RUN command :   gulp sass
  
 Browser-sync -                   npm install browser-sync --save-dev
 RUN command :   gulp watch
+
+css-js optimize -                npm install gulp-useref --save-dev
+
